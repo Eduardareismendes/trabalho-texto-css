@@ -15,13 +15,15 @@ p.titulo {
 }
 
 p.texto1 {
-    color: #5da011;
-    font-family: 'Courier New', Courier, monospace;
+    color:#427c00;
+    font-family: fantasy;
     text-decoration-line: underline;
+    text-decoration-color: #0096c4;
+    text-shadow: 0 0 3px #2bff01;
 }
 
 p.texto2 {
-    color: #0717a3;
+    color:#0717a3;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-decoration-line: overline;
     text-decoration-style: dashed;
@@ -29,7 +31,7 @@ p.texto2 {
 }
 
 p.texto3 {
-    color: #c2086e;
+    color:#c2086e;
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     text-decoration-line: underline;
     text-decoration-style: double;
@@ -37,13 +39,41 @@ p.texto3 {
 }
 
 p.texto4 {
-    color: #cf5300;
+    color:#cf5300;
     font-family: Geneva, Verdana, sans-serif;
     text-decoration-line: overline;
     text-decoration-style: dotted;
 }
 
 p.texto5 {
-    color: #e00926;
+    color:#e00926;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration-line: underline;
+    text-decoration-style: wavy;
+    text-shadow: 2px 2px 5px #5603b4;
+}
+
+p.texto6 {
+    color:#970000;
+    font-family:'Times New Roman', Times, serif;
+    text-decoration-line: overline;
+    text-decoration-style: dashed;
+    font-weight: bolder;
+    font-style: oblique;
+}
+
+p.texto7 {
+    color:#df1414;
+    text-shadow: 2px 2px 5px #3a6bd4;
+    font-size: 17px;
+}
+
+p.texto8 {
+    color:#d403db;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    text-decoration-line: underline;
+    text-decoration-style: dotted;
+    text-decoration-color: #f5017b;
+    text-decoration-thickness: 2px;
 }
