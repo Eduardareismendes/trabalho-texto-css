@@ -1,0 +1,49 @@
+body {
+    background-color: #ccecff;
+}
+
+p.titulo {
+    color:#ee538f;
+    text-align: center;
+    font-family: cursive;
+    font-size: 30px;
+    text-shadow: 2px 2px 5px #0ec2b9;
+    text-decoration-line: underline;
+    text-decoration-style: wavy;
+    text-decoration-color:#580ad4;
+    text-decoration-thickness: 4px;
+}
+
+p.texto1 {
+    color: #5da011;
+    font-family: 'Courier New', Courier, monospace;
+    text-decoration-line: underline;
+}
+
+p.texto2 {
+    color: #0717a3;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration-line: overline;
+    text-decoration-style: dashed;
+    text-shadow: 2px 2px 5px #18fdf2;
+}
+
+p.texto3 {
+    color: #c2086e;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-decoration-line: underline;
+    text-decoration-style: double;
+    font-size: 18px;
+}
+
+p.texto4 {
+    color: #cf5300;
+    font-family: Geneva, Verdana, sans-serif;
+    text-decoration-line: overline;
+    text-decoration-style: dotted;
+}
+
+p.texto5 {
+    color: #e00926;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
