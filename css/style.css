@@ -105,3 +105,12 @@ p.texto10 {
     text-decoration-thickness: 3px;
     font-size: 18px;
 }
+
+img {
+    border-radius: 8px;
+    width: 400px;
+    height: 300px;
+}
+div {
+    text-align: center;
+}
